@@ -1,9 +1,9 @@
-# TASK 1: What am i exited about for this class?
+# TASK 1: What am I exited about for this class?
 
 When I learned that we were going to maintain a blog for this course, that immediately became the part I was most excited about. I like the idea of having a place to regularly record what I am learning, reflect on the projects we complete, and share my thoughts with other people. A blog also feels more personal than simply turning in individual assignments because it allows me to look back at how my ideas and skills develop throughout the semester. I am especially interested in writing about data visualizations and explaining why certain charts are effective, since that will give me a chance to connect the technical work in class with my own interests and observations. By the end of the course, I hope the blog will show not only the work I completed, but also how my understanding of data and communication changed over time.
 
 
-## TASK 2: Exploring r/dataisbeautiful
+# TASK 2: Exploring r/dataisbeautiful
 
 ### 1. [A Life in Books](https://www.reddit.com/r/dataisbeautiful/comments/1jobwwu/a_life_in_books/)
 
