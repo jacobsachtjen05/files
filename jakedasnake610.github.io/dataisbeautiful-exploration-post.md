@@ -1,4 +1,11 @@
-## 1. [A Life in Books](https://www.reddit.com/r/dataisbeautiful/comments/1jobwwu/a_life_in_books/)
+# TASK 1: What am i exited about for this class?
+
+When I learned that we were going to maintain a blog for this course, that immediately became the part I was most excited about. I like the idea of having a place to regularly record what I am learning, reflect on the projects we complete, and share my thoughts with other people. A blog also feels more personal than simply turning in individual assignments because it allows me to look back at how my ideas and skills develop throughout the semester. I am especially interested in writing about data visualizations and explaining why certain charts are effective, since that will give me a chance to connect the technical work in class with my own interests and observations. By the end of the course, I hope the blog will show not only the work I completed, but also how my understanding of data and communication changed over time.
+
+
+## TASK 2: Exploring r/dataisbeautiful
+
+### 1. [A Life in Books](https://www.reddit.com/r/dataisbeautiful/comments/1jobwwu/a_life_in_books/)
 
 What makes this one interesting to me is the sheer dedication it takes to track every single book you read, and want to read, for over two decades straight. It's honestly admirable. Most people can't keep up a habit like that for a month, let alone half their life.
 
@@ -8,7 +15,7 @@ The "Books Read per Month" chart overlays life events, such as started dating, q
 
 If I tried this myself, I'd start with something as simple as a Google Sheet, one row per book with title, genre, page count, and date finished, since that's basically free and matches what this poster likely used.
 
-## 2. [Roman Emperors 27 BCE – 395 CE](https://www.reddit.com/r/dataisbeautiful/comments/1iw1qce/oc_visualizing_the_lifetimes_and_reigns_of_a/)
+### 2. [Roman Emperors 27 BCE – 395 CE](https://www.reddit.com/r/dataisbeautiful/comments/1iw1qce/oc_visualizing_the_lifetimes_and_reigns_of_a/)
 
 What stood out most to me was how common assassination was as a cause of death. Rather than being the exception, it was the most common way a Roman emperor's reign ended. That says a lot about how succession in the Roman Empire actually was.
 
@@ -18,7 +25,7 @@ Mapping each emperor's life as a circle with the reign as a golden arc. You imme
 
 I'd probably start simpler than Vega, using a basic Python script with matplotlib to plot birth-to-death arcs, and pull the emperor list straight from Wikipedia rather than trusting an unverified GitHub dataset for something as sensitive as "manner of death," since that's exactly the kind of detail that needs a real source check.
 
-## 3. [Proportion of Unicode 17.0 Characters Originating in China, Japan, and Korea](https://www.reddit.com/r/dataisbeautiful/comments/1ky9bs3/proportion_of_unicode_characters_originating_in/)
+### 3. [Proportion of Unicode 17.0 Characters Originating in China, Japan, and Korea](https://www.reddit.com/r/dataisbeautiful/comments/1ky9bs3/proportion_of_unicode_characters_originating_in/)
 
 This connects to something I already found fascinating: how Chinese internet users have used the sheer richness of the character set to get around government censorship, picking characters that sound like banned terms instead of writing them directly. Seeing the actual scale of the character set behind that workaround, over 100,000 Han characters alone, made that phenomenon click in a new way.
 
@@ -28,7 +35,7 @@ The giant 字, the character for "character," in the middle of the donut signals
 
 I'd use Python to grab the raw Unicode data files the same way the original poster did, then chart it in something quick like Google Sheets or matplot.lib. It'd also be interesting to run the same breakdown on an older Unicode version and compare how the proportions or trends have shifted as new scripts get added.
 
-## 4. [Top 5 Countries, Eurovision Song Contest](https://www.reddit.com/r/dataisbeautiful/comments/1ksnbph/oc_how_public_and_jury_votes_affect_the/)
+### 4. [Top 5 Countries, Eurovision Song Contest](https://www.reddit.com/r/dataisbeautiful/comments/1ksnbph/oc_how_public_and_jury_votes_affect_the/)
 
 The tension between the jury and public vote is the most interesting part to me: it's basically built-in drama every year, where the "experts" and the general audience can wildly disagree on who actually deserved to win.
 
@@ -38,7 +45,7 @@ The gray bar connecting jury and public vote dots tells the whole story in one v
 
 Given the aggregation mistake the original poster made, I'd double check the raw per-country vote totals against the official Eurovision results page before charting anything, then stick with a similar dumbbell-style chart since the gap between jury and public rank is really the whole point.
 
-## 5. [Mean Confidence in 13 National Institutions, by Partisanship, 1974–2024](https://www.reddit.com/r/dataisbeautiful/comments/1ky3tfs/oc_american_confindece_in_national_institutions/)
+### 5. [Mean Confidence in 13 National Institutions, by Partisanship, 1974–2024](https://www.reddit.com/r/dataisbeautiful/comments/1ky3tfs/oc_american_confindece_in_national_institutions/)
 
 I already had a rough sense of most of these trends going in, but seeing the actual numbers laid out made it hit differently. Some of the declines, especially in things like Congress and the press, were worse than I'd assumed just from following the news.
 
@@ -48,7 +55,7 @@ Keeping every panel on the same y-axis scale lets you compare confidence levels 
 
 I'd pull the raw data through the GSS's own online data explorer rather than downloading the full cumulative file, then use R with ggplot2's facet_wrap to recreate the small-multiples layout. I'd want to be careful the smoothing doesn't flatten out real single-year spikes, like a scandal-driven confidence drop.
 
-## Wrap-up
+### Wrap-up
 
 Looking back across all five, what struck me is how differently interesting showed up in each one. Sometimes it was the raw dedication, sometimes a single surprising fact (assassination as the default emperor death, 64% of them died this way), and sometimes just seeing a hunch confirmed with hard numbers (the institutional confidence survey). That range made me think about how differently the same five reflection questions can land depending on whether the data is deeply personal, historical, technical, competitive, or civic.
 
