@@ -1,7 +1,3 @@
----
-
----
-
 # Data Is Beautiful Exploration
 
 For this assignment I browsed r/dataisbeautiful (sorting by a mix of Hot and Top rather than sticking to the default) and looked for posts that felt like they'd resonate with a Digital Humanities crowd, leaning toward text, language, culture, and history over pure finance or sports charts. Here are the five I settled on, and what I found digging into each one.
@@ -50,7 +46,7 @@ Given the aggregation mistake the original poster made, I'd double check the raw
 
 I already had a rough sense of most of these trends going in, but seeing the actual numbers laid out made it hit differently. Some of the declines, especially in things like Congress and the press, were worse than I'd assumed just from following the news.
 
-The data comes from the General Social Survey (GSS), a long-running academic survey that's asked Americans the same core confidence questions since the 1970s specifically to track opinion change over time, drawn here from the GSS Cumulative File covering 1972 to 2024. It started as individual-level survey responses, each respondent's 1 to 3 confidence rating per institution plus party affiliation, which the poster then aggregated into annual party-level averages.
+The data comes from the General Social Survey (GSS), which is a long-running academic survey that's asked Americans the same sort of questions since the 1970s, specifically to track opinion change over time, drawn here from the GSS Cumulative File covering 1972 to 2024. It started as individual-level survey responses, each respondent's 1 to 3 confidence rating per institution plus party affiliation, which the poster then aggregated into annual party-level averages.
 
 Keeping every panel on the same y-axis scale lets you compare confidence levels across institutions, not just trends within one. The shaded ribbon between the red and blue lines turns "how far apart the parties are" into a single shape you can read at a glance, and its color flips visibly for institutions like the Supreme Court or Military. Printing the exact survey question at the top is a transparency choice that lets you judge the framing for yourself.
 
