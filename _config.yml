@@ -1,0 +1,6 @@
+title: "Jake's Course Blog"   # TODO: change to whatever you want the site called
+description: "Reflections, homework, and Digital Humanities explorations for [Course Name]"  # TODO: update
+theme: minima   # TODO: if you picked a different theme in Settings > Pages, put its name here instead
+
+# Uncomment if you want cleaner post URLs later:
+# permalink: /:categories/:year/:month/:day/:title/
