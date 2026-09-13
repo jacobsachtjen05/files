@@ -23,4 +23,4 @@ LINK 3: [Proportion of Unicode characters originating in](https://www.reddit.com
 
 LINK 4: [How public and jury votes affect the](https://www.reddit.com/r/dataisbeautiful/comments/1ksnbph/oc_how_public_and_jury_votes_affect_the/)
 
-LINK 5: [American confidence in national institutions](https://www.reddit.com/r/dataisbeautiful/comments/1ky3tfs/oc_american_confindece_in_national_institutions/)
+LINK 5: [American confidence in national institutions](https://www.reddit.com/r/dataisbeautiful/comments/1ky3tfs/oc_american_confindece_in_national_institutions/
