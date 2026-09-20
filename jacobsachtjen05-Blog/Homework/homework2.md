@@ -2,7 +2,7 @@
 
 I think of narrative as any experience that structures meaning through sequence, character, and stakes. Stories do not only live in books or movies they also live in games, podcasts, and interactive worlds. Three narratives I know especially well are Critical Role, Skylanders Spyros Adventure, and Baldurs Gate 3. Each one works differently, but all of them create emotional engagement in a way that feels personal to me.
 
-## 1 Critical Role
+## 1 **Critical Role**
 
 ### Why is it interesting to you
 
@@ -20,7 +20,7 @@ The audio visual livestream format is a huge part of what makes Critical Role fe
 
 I would want them to keep the live collaborative format but add more accessible ways to revisit key story moments. For example, I would love chapter markers, character arc summaries, and deeper digital archives for lore and world building. I think that would make the story easier to navigate for new audiences without losing the magic of the original performance. At the same time, I would want the re telling to preserve the emotional unpredictability that comes from live storytelling. The ideal modern version would still feel like a real shared experience, but with better tools for discovery and memory.
 
-## 2 Skylanders Spyros Adventure
+## 2 **Skylanders Spyros Adventure**
 
 ### Why is it interesting to you
 
@@ -38,7 +38,7 @@ The game form matters a lot here because the world is designed to be played with
 
 I would want them to keep the toy and gameplay connection, but make the story more complex and connected to the world. A modern retelling could include deeper character arcs, more dynamic quests, and more ways for players to build relationships between characters. I think it would also be cool if the game used the toys in a more meaningful way, not just as collectibles but as pieces of the story itself. The strongest version would still be a game, because the interactive, collectible, and exploratory parts are what make it unique. I would want it to keep the sense of wonder but make the narrative feel a little more layered and emotionally rich.
 
-## 3 Baldurs Gate 3
+## 3 **Baldurs Gate 3**
 
 ### Why is it interesting to you
 
